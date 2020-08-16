@@ -10,7 +10,7 @@ const Header = ({title}) => {
 };
 
 Header.defaultProps = {
-  title: 'Todoist Clone App'
+  title: 'Todoist App'
 }
 
 const styles = StyleSheet.create({
